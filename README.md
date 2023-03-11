@@ -1,4 +1,4 @@
-Hi 👋 My name is rwittmuess
+Hi, I'm rwittmuess 👋🏼
 ===========================
 
 Mechatronics Engineer
@@ -7,7 +7,7 @@ Mechatronics Engineer
 I like to learn about a wide range of technical topics and automate technical processes. I therefore really like robots.
 
 * 🌍  I'm based in Berkeley, CA
-* 🧠  I'm learning Control Theory of Legged Robots
+* 🧠  I'm currently learning Control Theory of Legged Robots
 
 ### Skills
 
